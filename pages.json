@@ -1,0 +1,139 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页
+		
+		
+		{
+			"path": "pages/index/login",
+			"style": {
+				"navigationBarTitleText": "代码管理平台移动端"
+			}
+		},
+		
+		
+		
+		
+		
+		
+		
+		{
+			"path": "pages/index/student/student1",
+			"style": {
+				"navigationBarTitleText": "学生端"
+			}
+		},
+		
+		{
+			"path": "pages/index/student/student2",
+			"style": {
+				"navigationBarTitleText": "学生端"
+			}
+		},
+		
+		{
+			"path": "pages/index/student/student3",
+			"style": {
+				"navigationBarTitleText": "学生端"
+			}
+		},
+		{
+			"path" : "pages/index/student/courseDetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "课程班级"
+			}
+		},
+		{
+		  "path": "pages/index/student/jobDetail",
+		  "style": {
+		    "navigationBarTitleText": "班级作业"
+		  }
+		},
+
+		
+		
+		
+		
+		
+		{
+			"path": "pages/index/teacher/teacher1",
+			"style": {
+				"navigationBarTitleText": "教师端"
+			}
+		},
+		
+		{
+			"path": "pages/index/teacher/teacher2",
+			"style": {
+				"navigationBarTitleText": "教师端"
+			}
+		},
+		
+		{
+			"path": "pages/index/teacher/teacher3",
+			"style": {
+				"navigationBarTitleText": "教师端"
+			}
+		},
+		
+		{
+			"path": "pages/index/teacher/courseDetail",
+			"style": {
+				"navigationBarTitleText": "课程班级"
+			}
+		},
+		
+		{
+			"path": "pages/index/teacher/jobDetail",
+			"style": {
+				"navigationBarTitleText": "作业统计"
+			}
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+			"path": "pages/index/admin/admin1",
+			"style": {
+				"navigationBarTitleText": "学期管理"
+			}
+		},
+		
+		{
+			"path": "pages/index/admin/admin2",
+			"style": {
+				"navigationBarTitleText": "教师管理"
+			}
+		},
+		
+		{
+			"path": "pages/index/admin/admin3",
+			"style": {
+				"navigationBarTitleText": "系统管理"
+			}
+		},
+		{
+			"path": "pages/index/admin/courses",
+			"style": {
+				"navigationBarTitleText": "课程管理"
+			}
+		}
+
+		
+		
+		
+		
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "代码管理平台移动端",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

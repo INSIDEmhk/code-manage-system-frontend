@@ -1,0 +1,67 @@
+{
+  "hash": "afa71acd",
+  "configHash": "64c3d372",
+  "lockfileHash": "9f59e865",
+  "browserHash": "86f117b0",
+  "optimized": {
+    "highlight.js": {
+      "src": "../../../../../node_modules/highlight.js/es/index.js",
+      "file": "highlight__js.js",
+      "fileHash": "c0122408",
+      "needsInterop": false
+    },
+    "xlsx": {
+      "src": "../../../../../node_modules/xlsx/xlsx.mjs",
+      "file": "xlsx.js",
+      "fileHash": "b2ffeb3a",
+      "needsInterop": false
+    },
+    "prismjs": {
+      "src": "../../../../../node_modules/prismjs/prism.js",
+      "file": "prismjs.js",
+      "fileHash": "7c6c3b06",
+      "needsInterop": true
+    },
+    "prismjs/components/prism-javascript.min.js": {
+      "src": "../../../../../node_modules/prismjs/components/prism-javascript.min.js",
+      "file": "prismjs_components_prism-javascript__min__js.js",
+      "fileHash": "08eb25f9",
+      "needsInterop": true
+    },
+    "prismjs/components/prism-c.min.js": {
+      "src": "../../../../../node_modules/prismjs/components/prism-c.min.js",
+      "file": "prismjs_components_prism-c__min__js.js",
+      "fileHash": "01a72f75",
+      "needsInterop": true
+    },
+    "prismjs/components/prism-cpp.min.js": {
+      "src": "../../../../../node_modules/prismjs/components/prism-cpp.min.js",
+      "file": "prismjs_components_prism-cpp__min__js.js",
+      "fileHash": "f54e0195",
+      "needsInterop": true
+    },
+    "prismjs/components/prism-java.min.js": {
+      "src": "../../../../../node_modules/prismjs/components/prism-java.min.js",
+      "file": "prismjs_components_prism-java__min__js.js",
+      "fileHash": "d3a444a3",
+      "needsInterop": true
+    },
+    "prismjs/components/prism-python.min.js": {
+      "src": "../../../../../node_modules/prismjs/components/prism-python.min.js",
+      "file": "prismjs_components_prism-python__min__js.js",
+      "fileHash": "b5e0ca1f",
+      "needsInterop": true
+    },
+    "prismjs/components/prism-css.min.js": {
+      "src": "../../../../../node_modules/prismjs/components/prism-css.min.js",
+      "file": "prismjs_components_prism-css__min__js.js",
+      "fileHash": "01c44464",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-LQ2VYIYD": {
+      "file": "chunk-LQ2VYIYD.js"
+    }
+  }
+}
